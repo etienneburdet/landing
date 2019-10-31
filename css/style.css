@@ -1,0 +1,39 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Fauna+One|Playfair+Display:900i&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url('components/hero.css');
+@import url('components/card.css');
+@import url('components/footer.css');
+
+/* Utilities */
+body {
+  background-color: #FCFAF2;
+  margin: 0;
+  font-family: Open Sans;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-family: 'Fauna One', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  color: #C18A26;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.container {
+  width:700px;
+}
+
+.text-center {
+  text-align: center;
+}

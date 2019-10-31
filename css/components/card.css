@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  margin-top: 20px;
+  background-color: #96632E;
+  color: #FCFAF2;
+}
+.card {
+  margin: 15px;
+  width: 200px;
+  text-align: center;
+  border-top: dotted 1px;
+  border-top-color: currentcolor;
+  border-color: #FCFAF2;
+}
+.card img {
+  width:100px;
+  height: auto;
+}
+.card h2 {
+  font-size: 15px;
+  font-weight: 400;
+  color: #FCFAF2;
+}
